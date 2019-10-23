@@ -1,0 +1,14 @@
+E:\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+E:\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+E:\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+E:\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.xml
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Resources.resources
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.vbproj.GenerateResource.Cache
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.xml
+E:\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.xml
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb

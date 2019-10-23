@@ -1,0 +1,11 @@
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.exe.config
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.Form1.resources
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.Resources.resources
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.vbproj.GenerateResource.Cache
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.exe
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.pdb
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\bin\Release\CalculatorProject.xml
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.exe
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.xml
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.pdb
+D:\ICT\AY 2018-2019\ICT12_Maglangit\VB Excercises\Post Mid Term\CalculatorProject\CalculatorProject\obj\Release\CalculatorProject.vbprojResolveAssemblyReference.cache
